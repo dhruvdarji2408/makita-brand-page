@@ -63,5 +63,4 @@ Example:
     </div>
 </div>
 
-Contact d.darji@makita.ca for any questions/assitance.
-All assets are copy right of Makita Canada Inc. and can be used any Makita Canada Inc. Authorized dealer without attributions.
+Demo: https://www.makita.ca/brand-page-template/index1.html
